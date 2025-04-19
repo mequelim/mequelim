@@ -77,6 +77,7 @@
 
 <div align="center">
   <img alt="PostgreSQL" align="center" height="32" width="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" />
+  <img alt="SQLite" align="center" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqlite/sqlite-original.svg" />
   <img alt="MySQL" align="center" height="33" width="33" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" />
   <img alt="MongoDB" align="center" height="35" width="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg" />
   <!-- <img alt="Cassandra" align="center" height="38" width="38" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cassandra/cassandra-original.svg" /> -->
