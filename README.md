@@ -94,7 +94,7 @@
 ### API
 
 <div align="center">
-  <img alt="GraphQL" align="center" height="38" width="38" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/graphql/graphql-plain.svg" />
+  <img alt="GraphQL" align="center" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/graphql/graphql-plain.svg" />
 </div>
 
 ### Database
