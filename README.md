@@ -13,13 +13,35 @@
 
 ## GitHub Stats
 
-<!-- <div align="center">
+<div align="center">
   <img
-    height="220rem"
-    width="350rem"
-    src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=mequelim&theme=github_dark"
+    height="310rem"
+    width="850rem"
+    src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mequelim&theme=tokyonight"
   />
-</div> -->
+
+  <img
+    height="270rem"
+    width="400rem"
+    src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=mequelim&theme=tokyonight"
+  />
+  <img
+    height="270rem"
+    width="400rem"
+    src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=mequelim&theme=tokyonight"
+  />
+
+  <img
+    height="270rem"
+    width="400rem"
+    src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=mequelim&theme=tokyonight"
+  />
+  <img
+    height="270rem"
+    width="400rem"
+    src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=mequelim&theme=tokyonight"
+  />
+</div>
 
 ## Main Technologies
 
