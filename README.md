@@ -91,11 +91,11 @@
   <img alt="Flutter" align="center" height="28" width="28" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flutter/flutter-original.svg" /> -->
 </div>
 
-<!-- ### API
+### API
 
 <div align="center">
   <img alt="GraphQL" align="center" height="38" width="38" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/graphql/graphql-plain.svg" />
-</div> -->
+</div>
 
 ### Database
 
