@@ -30,17 +30,6 @@
     width="400rem"
     src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=mequelim&theme=tokyonight"
   />
-
-  <!-- <img
-    height="270rem"
-    width="400rem"
-    src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=mequelim&theme=tokyonight"
-  /> -->
-  <!-- <img
-    height="270rem"
-    width="400rem"
-    src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=mequelim&theme=tokyonight"
-  /> -->
 </div>
 
 ## Main Technologies
