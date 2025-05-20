@@ -17,7 +17,7 @@
 
 ## GitHub Stats
 
-<div align="center">
+<!-- <div align="center">
   <img
     height="310rem"
     width="850rem"
@@ -34,7 +34,7 @@
     width="400rem"
     src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=mequelim&theme=tokyonight"
   />
-</div>
+</div> -->
 
 ## Main Technologies
 
