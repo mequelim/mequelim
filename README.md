@@ -15,9 +15,9 @@
   </ul>
 </div>
 
-## GitHub Stats
+<!-- ## GitHub Stats
 
-<!-- <div align="center">
+<div align="center">
   <img
     height="310rem"
     width="850rem"
