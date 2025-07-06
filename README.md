@@ -29,7 +29,6 @@
     width="400rem"
     src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=mequelim&theme=tokyonight"
   />
-
   <img
     height="270rem"
     width="400rem"
