@@ -8,10 +8,8 @@
     <li>I am <b>FullStack Software Developer</b> with focus on <b>Mobile</b> and <b>BackEnd Development</b>;</li>
     <li>Enthusiastic about <b>Mobile Development</b>, <b>Software Architecture</b> and <b>Artificial Intelligence (AI)</b>;</li>
     <li>Graduated in <b>Technology in Systems Analysis and Development</b> from SENAC PR.</li>
-    <!-- <li>Postgraduate degree in <b>Mobile Development</b> from PUCPR.</li> -->
-    <!-- <li>Postgraduate degree in AI.</li> -->
-    <!-- <li>Postgraduate degree in Machine Learning Engineering.</li> -->
-    <!-- <li>Postgraduate degree in Software Architecture.</li> -->
+    <!-- <li>Postgraduate degree in <b>Software Architecture</b> from FIAP.</li> -->
+    <!-- <li>Postgraduate degree in <b>AI</b> from FIAP.</li> -->
   </ul>
 </div>
 
