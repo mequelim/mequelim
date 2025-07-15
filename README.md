@@ -13,27 +13,6 @@
   </ul>
 </div>
 
-<!-- ## GitHub Stats
-
-<div align="center">
-  <img
-    height="310rem"
-    width="850rem"
-    src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mequelim&theme=tokyonight"
-  />
-
-  <img
-    height="270rem"
-    width="400rem"
-    src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=mequelim&theme=tokyonight"
-  />
-  <img
-    height="270rem"
-    width="400rem"
-    src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=mequelim&theme=tokyonight"
-  />
-</div> -->
-
 ## Main Technologies
 
 ### FrontEnd
