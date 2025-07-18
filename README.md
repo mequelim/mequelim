@@ -5,7 +5,7 @@
   <ul>
     <li>My name is <b>Pedro Mequelim</b>;</li>
     <li>Passionate about <b>technology</b> and <b>programming</b>;</li>
-    <li>I am <b>Mobile</b> and <b>BackEnd Development</b>;</li>
+    <li>I am <b>Mobile</b> and <b>BackEnd Developer</b>;</li>
     <li>Enthusiastic about <b>Mobile Development</b>, <b>Software Architecture</b> and <b>Artificial Intelligence (AI)</b>;</li>
     <li>Graduated in <b>Technology in Systems Analysis and Development</b> from SENAC PR.</li>
   </ul>
