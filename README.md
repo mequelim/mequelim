@@ -13,7 +13,7 @@
 
 ## Main Technologies
 
-### FrontEnd
+### FrontEnd Web
 
 <div align="center">
   <img alt="HTML" align="center" height="25" width="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
