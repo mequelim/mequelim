@@ -73,6 +73,8 @@
 ### ORMs
 
 <div align="center">
+  <img alt="Prisma" align="center" height="26" width="26" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/prisma/prisma-original.svg" />
+  <img alt="Sequelize" align="center" height="28" width="28" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sequelize/sequelize-original.svg" />
   <img alt="Hibernate" align="center" height="25" width="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/hibernate/hibernate-original.svg" />
 </div>
 
