@@ -8,10 +8,6 @@
     <li>I am <b>Mobile & BackEnd Developer</b> and <b>Software Architect</b>;</li>
     <li>Enthusiastic about <b>Mobile Development</b>, <b>Software Architecture</b> and <b>AI</b>;</li>
     <li>Graduated in <b>Technology in Systems Analysis and Development</b> from SENAC PR.</li>
-    <!-- <li>Postgraduate in <b>Software Architecture</b> from FIAP.</li>
-    <li>Postgraduate in <b>Solution Architecture: Smart and Strategic Applications</b> from PUCPR.</li>
-    <li>Postgraduate in <b>Software Architecture, Data Science and Cybersecurity</b> from PUCPR.</li>
-    <li>Postgraduate in <b>AI for Devs</b> from FIAP.</li> -->
   </ul>
 </div>
 
