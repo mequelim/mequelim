@@ -8,7 +8,7 @@
     <li>I am <b>Mobile & BackEnd Developer</b> and <b>Software Architect</b>;</li>
     <li>Enthusiastic about <b>Mobile Development</b> and <b>Software Architecture</b>;</li>
     <li>Graduated in <b>Technology in Systems Analysis and Development</b> from SENAC PR;</li>
-    <li>Postgraduate student in <b>Software Architecture</b>, at <b>FIAP</b>.</li>
+    <li>Postgraduate student in <b>Software Architecture</b> at <b>FIAP</b>.</li>
   </ul>
 </div>
 
