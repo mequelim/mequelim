@@ -18,7 +18,7 @@
   <img
     height="380"
     width="380"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=mequelim&theme=midnight-purple&show_icons=true&hide_border=true&layout=compact"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=mequelim&theme=algolia&show_icons=true&hide_border=true&layout=compact"
   />
 </div>
 
