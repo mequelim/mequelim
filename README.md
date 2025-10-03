@@ -12,16 +12,6 @@
   </ul>
 </div>
 
-## Stats
-
-<div align="center">
-  <img
-    height="380"
-    width="380"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=mequelim&theme=algolia&show_icons=true&hide_border=true&layout=compact"
-  />
-</div>
-
 ## Main Technologies
 
 ### Mobile
