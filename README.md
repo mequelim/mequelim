@@ -3,7 +3,6 @@
 ## About me
 <div>
   <ul>
-    <li>My name is <b>Pedro Mequelim</b>;</li>
     <li>Passionate about <b>technology</b> and <b>programming</b>;</li>
     <li>I am <b>Mobile & BackEnd Developer</b> and <b>Software Architect</b>;</li>
     <li>Enthusiastic about <b>Mobile Development</b> and <b>Software Architecture</b>;</li>
