@@ -79,7 +79,6 @@
   <img alt="Docker" align="center" height="38" width="38" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" />
   <img alt="Kubernetes" align="center" height="25" width="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kubernetes/kubernetes-original.svg" />
   <img alt="Terraform" align="center" height="28" width="28" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/terraform/terraform-original.svg" />
-  <img alt="Jenkins" align="center" height="32" width="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jenkins/jenkins-line.svg" />
   <img alt="Prometheus" align="center" height="25" width="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/prometheus/prometheus-original.svg" />
   <img alt="jaegertracing" align="center" height="32" width="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jaegertracing/jaegertracing-original.svg" />
 </div>
