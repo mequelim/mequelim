@@ -10,6 +10,12 @@
   </ul>
 </div>
 
+# Stats
+
+<div align="center">
+  <img width="467" height="195" alt="image" src="https://github-readme-stats.vercel.app/api?username=mequelim&show_icons=true&theme=algolia" />
+</div>
+
 ## Main Technologies
 
 ### Mobile
