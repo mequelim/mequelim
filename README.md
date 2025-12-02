@@ -4,7 +4,7 @@
 <div>
   <ul>
     <li>I am <b>Mobile Developer</b>, <b>FullStack .NET Developer</b> and <b>Software Architect</b>;</li>
-    <li>Enthusiastic about <b>Mobile & .NET Development</b> and <b>Software Architecture</b>;</li>
+    <li>Enthusiastic about <b>.NET Development</b> and <b>Software Architecture</b>;</li>
     <li>Graduated in <b>Technology in Systems Analysis and Development</b> from SENAC PR;</li>
     <li>Postgraduate student in <b>Software Architecture</b> at FIAP.</li>
   </ul>
