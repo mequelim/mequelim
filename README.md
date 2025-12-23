@@ -5,7 +5,7 @@
   <ul>
     <li>I am <b>Mobile Developer</b>, <b>FullStack .NET Developer</b> and <b>Software Architect</b>;</li>
     <li>Enthusiastic about <b>mobile</b> & <b>.NET Development</b> and <b>Software Architecture</b>;</li>
-    <li>Graduated in <b>Technology in Systems Analysis and Development</b> from SENAC PR.</li>
+    <li>Graduated in <b>Technology in Systems Analysis and Development</b>.</li>
   </ul>
 </div>
 
