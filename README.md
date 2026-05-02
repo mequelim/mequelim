@@ -16,37 +16,36 @@
 
 ## 💻 Main Technologies
 
-- 🎯 Currently, I am working on: mobile apps, backend (microservices), DDD and some software architectures;
-- 🚀 Main technologies:
-  - JavaScript;
-  - TypeScript;
-  - React Native;
-  - C#;
-  - .NET;
-  - Firebase;
-  - Databases;
-    - SQL:
-      - PostgreSQL;
-    - NoSQL:
-      - MongoDB;
-      - Redis;
-      - Amazon DynamoDB.
-  - Kafka;
-  - RabbitMQ;
-  - Kibana;
-  - Grafana;
-  - gRPC;
-  - Qodana;
-  - AWS.
-- 📞 How to reach me? Reach out and connect with me on LinkedIn!
++ 🎯 Currently, I am working on: mobile apps, backend (microservices), DDD and some software architectures (manly Clean Architecture & Vertical Slice Archtecture);
++ 🚀 Main technologies:
+  + JavaScript;
+  + TypeScript;
+  + React Native;
+  + C#;
+  + .NET;
+  + Golang;
+  + Firebase;
+  + Databases;
+    + SQL:
+      + PostgreSQL;
+    + NoSQL:
+      + MongoDB;
+      + Redis;
+      + Amazon DynamoDB.
+  + Kafka;
+  + RabbitMQ;
+  + Kibana;
+  + Grafana;
+  + gRPC;
+  + Qodana;
+  + AWS.
++ 📞 How to reach me? Reach out and connect with me on LinkedIn!
 
 ## ⚡ Github Stats</b></summary>
 
 <div align="center">
   <a href="https://github.com/pmiquelin">
-    <img
-      src="https://github-readme-streak-stats.herokuapp.com/?user=pmiquelin&theme=algolia&hide_border=true"
-    />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=pmiquelin&theme=algolia&hide_border=true" />
   </a>
 
   <br>
