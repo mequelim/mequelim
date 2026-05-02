@@ -30,8 +30,11 @@
       + PostgreSQL;
     + NoSQL:
       + MongoDB;
+      + Neo4j;
       + Redis;
       + Amazon DynamoDB.
+    + NewSQL:
+      + CockroachDB.
   + Kafka;
   + RabbitMQ;
   + Kibana;
