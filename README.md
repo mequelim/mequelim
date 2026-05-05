@@ -14,7 +14,7 @@
   </ul>
 </div>
 
-## 💻 Main Technologies
+## 💻 My core expertise
 
 + 🎯 Currently, I am working on: mobile apps, backend (microservices), DDD and some software architectures (mainly Clean Architecture & Vertical Slice Architecture);
 + 🚀 Main technologies:
