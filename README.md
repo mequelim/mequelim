@@ -43,20 +43,3 @@
   + Qodana;
   + AWS.
 + 📞 How to reach me? Reach out and connect with me on LinkedIn!
-
-## ⚡ Github Stats</b></summary>
-
-<div align="center">
-  <a href="https://github.com/pmiquelin">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=pmiquelin&theme=algolia&hide_border=true" />
-  </a>
-
-  <br>
-
-  <a href="https://github.com/pmiquelin">
-    <img
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=pmiquelin&theme=algolia&show_icons=true&hide_border=true&layout=compact"
-      width="400"
-    />
-  </a>
-</div>
