@@ -19,7 +19,7 @@
 + 🎯 Currently, I am working on: mobile apps, backend (microservices), DDD and some software architectures (mainly Clean Architecture & Vertical Slice Architecture);
 + 🚀 Main technologies:
   + **Mobile**: React Native (JavaScript/TypeScript);
-  + **Backend & Architecture**: C#, .NET / ASP.NET Core, EF Core, Golang, Gin, GORM, REST, GraphQL, AWS;
+  + **Backend & Architecture**: C#, .NET / ASP.NET Core, EF Core, Golang, Gin, GORM, REST, GraphQL, gRPC, AWS;
   + **Architecture & Design**: Microservices, Modular Monoliths, DDD, Design Patterns, Architecture & Cloud Principles;
   + **Principles**: SOLID, DRY, KISS, YAGNI, clean code and evolutionary architecture.
 + 📞 How to reach me? Reach out and connect with me on LinkedIn!
