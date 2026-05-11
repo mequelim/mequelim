@@ -8,7 +8,7 @@
 <div>
   <ul>
     <li>I am <b>Mobile</b>, <b>FullStack .NET</b> & <b>Golang Developer</b>;</li>
-    <li>Enthusiastic about <b>mobile</b> & <b>.NET Development</b> & <b>Software Architecture</b>;</li>
+    <li>Enthusiastic about <b>mobile</b>, <b>Go</b> <b>.NET Development</b> & <b>Software Architecture</b>;</li>
     <li>Graduated in <b>Technology in Systems Analysis and Development</b>.</li>
     <!-- <li>Postgraduate studies in Software Architecture at FIAP.</li> -->
     <!-- <li>My personal projects are on <a href="https://gitlab.com/miquelin">GitLab</a>.</li> -->
