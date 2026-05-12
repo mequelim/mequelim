@@ -21,7 +21,7 @@
   + **Mobile**:
     + React Native (JavaScript/TypeScript);
   + **Backend & Architecture**:
-    + C#,;
+    + C#;
     + .NET / ASP.NET Core;
         + EF Core,
     + Python;
