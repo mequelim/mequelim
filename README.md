@@ -16,7 +16,7 @@
 
 ## 💻 My core expertise
 
-+ 🎯 Currently, I am working on: **mobile apps**, **backend (microservices)**, **DDD**, **TDDD** and some **software architectures** (mainly *Clean Architecture* & *Vertical Slice Architecture*);
++ 🎯 Currently, I am working on: **mobile apps**, **backend (microservices)**, **DDD**, **TDD** and some **software architectures** (mainly *Clean Architecture* & *Vertical Slice Architecture*);
 + 🚀 **Main technologies:**
   + **Mobile**:
     + React Native (JavaScript/TypeScript);
