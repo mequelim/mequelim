@@ -24,12 +24,13 @@
     + C#;
     + .NET / ASP.NET Core;
         + EF Core,
-    + Python;
-        + Django;
-        + FastAPI;
-        + SQLAlchemy;
-        + NumPy;
-        + SciPy;
+    + Go;
+        + Gin;
+        + Fiber;
+        + Echo;
+        + Beego;
+        + Rever;
+        + GORM.
     + REST;
     + GraphQL,
     + gRPC;
