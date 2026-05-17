@@ -18,6 +18,8 @@
 
 + 🎯 Currently, I am working on: **mobile apps**, **backend (microservices)**, **DDD**, **TDD** and some **software architectures** (mainly *Clean Architecture* & *Vertical Slice Architecture*);
 + 🚀 **Main technologies:**
+  + **Web:**:
+    + Next.js (JavaScript/TypeScript). 
   + **Mobile**:
     + React Native (JavaScript/TypeScript);
   + **Backend & Architecture**:
