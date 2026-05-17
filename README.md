@@ -25,7 +25,7 @@
   + **Backend & Architecture**:
     + C#;
     + .NET / ASP.NET Core;
-        + EF Core,
+        + EF Core.
     + Go;
         + Gin;
         + Fiber;
