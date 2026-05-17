@@ -36,14 +36,14 @@
     + REST;
     + GraphQL,
     + gRPC;
-    + AWS;
+    + AWS.
   + **Architecture & Design**:
     + Microservices;
     + Modular Monoliths:
     + DDD;
     + Design Patterns;
     + Architecture;
-    + Cloud Principles;
+    + Cloud Principles.
   + **Principles**:
     + SOLID;
     + DRY;
