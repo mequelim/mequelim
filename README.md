@@ -20,7 +20,7 @@
 + 🚀 **Main technologies:**
   + **Mobile**:
     + React Native (JavaScript/TypeScript);
-  + **Backend & Architecture**:
+  + **Backend**:
     + C#;
     + .NET / ASP.NET Core;
         + EF Core.
