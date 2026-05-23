@@ -8,7 +8,8 @@
 <div>
   <ul>
     <li>I am <b>Mobile</b> & <b>FullStack .NET Developer</b> and enthusiastic about <b>Software Architecture</b>;</li>
-    <li>Graduated in <b>Technology in Systems Analysis and Development</b>.</li>
+    <li>Graduated in <b>Technology in Systems Analysis and Development</b>;</li>
+    <li>Go to <a href="https://gitlab.com/miquelin">my GitLab profile</a> to see my projects.</li>
     <!-- <li>Postgraduated in Software Architecture at FIAP;</li>; -->
     <!-- <li><b>Owner of Qoherent Software Ltda</b>.</li> -->
   </ul>
