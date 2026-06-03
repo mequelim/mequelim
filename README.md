@@ -20,7 +20,7 @@
     + C#;
     + .NET / ASP.NET Core;
         + EF Core (ORM).
-    + Node.js;
+    + Node.js (JavaScript/TypeScript);
         + NestJS;
         + Fastify;
         + Prisma (ORM).
