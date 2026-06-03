@@ -10,28 +10,20 @@
     <li>I am <b>Mobile</b> & <b>FullStack .NET Developer</b> and enthusiastic about <b>Software Architecture</b>;</li>
     <li>Graduated in <b>Technology in Systems Analysis and Development</b>;</li>
     <li>Go to <a href="https://gitlab.com/miquelin">my GitLab profile</a> to see my projects.</li>
-    <!-- <li>Postgraduated in Software Architecture at FIAP;</li>; -->
-    <!-- <li><b>Owner of Qoherent Software Ltda</b>.</li> -->
   </ul>
 </div>
 
 ## 💻 My core expertise
-
-+ 🎯 Currently, I am working on: **mobile apps**, **backend (microservices)**, **DDD**, **TDD** and some **software architectures** (mainly *Clean Architecture* & *Vertical Slice Architecture*);
-+ 🚀 **Main technologies:**
   + **Mobile**:
     + React Native (JavaScript/TypeScript);
   + **Backend**:
     + C#;
     + .NET / ASP.NET Core;
-        + EF Core.
-    + Go;
-        + Gin;
-        + Fiber;
-        + Echo;
-        + Beego;
-        + Rever;
-        + GORM.
+        + EF Core (ORM).
+    + Node.js;
+        + NestJS;
+        + Fastify;
+        + Prisma (ORM).
     + REST;
     + GraphQL,
     + gRPC;
