@@ -8,8 +8,7 @@
 <div>
   <ul>
     <li>I am <b>Mobile</b> & <b>FullStack .NET Developer</b> and enthusiastic about <b>Software Architecture</b>;</li>
-    <li>Graduated in <b>Technology in Systems Analysis and Development</b>;</li>
-    <li>Currently, I am working on my personal projects (SaaS) - so, give me a call so we can talk about my experience and the projects I am/was involved in.</li>
+    <li>Graduated in <b>Technology in Systems Analysis and Development</b>.</li>
   </ul>
 </div>
 
