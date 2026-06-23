@@ -9,21 +9,22 @@
   <ul>
     <li>I am <b>Mobile</b> & <b>FullStack .NET Developer</b> and enthusiastic about <b>Software Architecture</b>;</li>
     <li>Graduated in <b>Technology in Systems Analysis and Development</b>;</li>
-    <li>Go to <a href="https://gitlab.com/miquelin">my GitLab profile</a> to see my projects.</li>
+    <li>Currently, I am working on my personal projects (SaaS) - so, give me a call so we can talk about my experience and the projects I am/was involved in.</li>
   </ul>
 </div>
 
 ## 💻 My core expertise
+
++ 🎯 Currently, I am working on: **mobile apps**, **microservices**, **DDD**, **TDD** and some **software architectures** (mainly *Clean Architecture* & *Vertical Slice Architecture*);
++ 🚀 **Main technologies:**
   + **Mobile**:
     + React Native (JavaScript/TypeScript);
   + **Backend**:
     + C#;
     + .NET / ASP.NET Core;
-        + EF Core (ORM).
-    + Node.js (JavaScript/TypeScript);
-        + NestJS;
-        + Fastify;
-        + Prisma (ORM).
+        + ORMs.
+          + Entity Framework Core (EF Core);
+          + Dapper.
     + REST;
     + GraphQL,
     + gRPC;
