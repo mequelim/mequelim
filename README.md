@@ -28,8 +28,16 @@
           + Dapper.
     + REST;
     + GraphQL,
-    + gRPC;
-    + AWS.
+    + gRPC.
+  + **Cloud & Databases:**
+    + Azure;
+      + Azure SQL Databases;
+      + Azure Cosmos DB;
+      + Azure DocumentDB.
+    + PostgreSQL;
+    + MongoDB;
+    + CockroachDB;
+    + Redis. 
   + **Architecture & Design**:
     + Microservices;
     + Modular Monoliths:
