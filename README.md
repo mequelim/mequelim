@@ -1,16 +1,11 @@
 # Welcome! 👋
 
-> [!IMPORTANT]
->
-> ### Profile for study purposes only!
-
 ## 💎 About me
 <div>
   <ul>
     <li>I am <b>Mobile</b> & <b>FullStack .NET Developer</b> and enthusiastic about <b>Software Architecture</b>;</li>
     <li>Graduated in <b>Technology in Systems Analysis and Development</b>;</li>
-    <li>Currently, I am working on my personal projects (SaaS) - so, give me a call so we can talk about my experience and the projects I am/was involved in;</li>
-    <li>To see my personal projects go to <a href="https://gitlab.com/dashboard/projects">my GitLab profile</a>.</li>
+    <li>Currently, I am working on my personal projects (SaaS) - so, give me a call so we can talk about my experience and the projects I am/was involved in.</li>
   </ul>
 </div>
 
