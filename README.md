@@ -36,7 +36,7 @@
   + **Architecture & Design**:
     + Microservices;
     + Modular Monoliths:
-    + DDD;
+    + Domain-Driven (DDD);
     + Design Patterns;
     + Architecture;
     + Cloud Principles.
