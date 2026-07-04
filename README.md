@@ -14,13 +14,16 @@
 + 🎯 Currently, I am working on: **mobile apps**, **microservices**, **DDD**, **TDD** and some **software architectures** (mainly *Clean Architecture* & *Vertical Slice Architecture*);
 + 🚀 **Main technologies:**
   + **Mobile**:
-    + React Native (JavaScript/TypeScript);
+    + React Native (TypeScript);
+    + .NET MAUI;
   + **Backend**:
     + C#;
-    + .NET / ASP.NET Core;
-        + ORMs.
-          + Entity Framework Core (EF Core);
-          + Dapper.
+    + .NET;
+      + ASP.NET Core;
+      + .NET Aspire;
+      + ORMs.
+        + Entity Framework Core (EF Core);
+        + Dapper.
     + REST;
     + GraphQL,
     + gRPC.
@@ -32,11 +35,13 @@
     + PostgreSQL;
     + MongoDB;
     + CockroachDB;
+    + Neo4j;
     + Redis. 
   + **Architecture & Design**:
     + Microservices;
     + Modular Monoliths:
-    + Domain-Driven (DDD);
+    + Domain-Driven Design (DDD);
+    + Test-Driven Design (TDD);
     + Design Patterns;
     + Architecture;
     + Cloud Principles.
