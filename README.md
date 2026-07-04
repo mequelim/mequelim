@@ -15,7 +15,7 @@
 + 🚀 **Main technologies:**
   + **Mobile**:
     + React Native (TypeScript);
-    + .NET MAUI;
+    + .NET MAUI.
   + **Backend**:
     + C#;
     + .NET;
