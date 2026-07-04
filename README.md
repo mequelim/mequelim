@@ -25,7 +25,7 @@
         + Entity Framework Core (EF Core);
         + Dapper.
     + REST;
-    + GraphQL,
+    + GraphQL;
     + gRPC.
   + **Cloud & Databases:**
     + Azure;
@@ -50,6 +50,6 @@
     + DRY;
     + KISS;
     + YAGNI;
-    + Clean code;
+    + Clean Code;
     + Evolutionary architecture.
 + 📞 **How to reach me?** Reach out and connect with me on LinkedIn!
