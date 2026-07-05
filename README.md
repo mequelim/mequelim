@@ -14,8 +14,7 @@
 + 🎯 Currently, I am working on: **mobile apps**, **microservices**, **DDD**, **TDD** and some **software architectures** (mainly *Clean Architecture* & *Vertical Slice Architecture*);
 + 🚀 **Main technologies:**
   + **Mobile**:
-    + React Native (TypeScript);
-    + .NET MAUI.
+    + React Native (TypeScript).
   + **Backend**:
     + C#;
     + .NET;
