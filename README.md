@@ -33,7 +33,6 @@
       + Azure DocumentDB.
     + PostgreSQL;
     + MongoDB;
-    + CockroachDB;
     + Neo4j;
     + Redis. 
   + **Architecture & Design**:
