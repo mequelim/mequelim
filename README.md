@@ -38,7 +38,7 @@ Currently, I am working on my personal projects (SaaS) - so, give me a call so w
 ## ⚡ My Stack
 
 <img
-  src="https://skillicons.dev/icons?i=cs,dotnet,ts,react,js,postgres,mongo,redis,azure,docker,vercel,tailwind,git,github&perline=7"
+  src="https://skillicons.dev/icons?i=cs,dotnet,js,ts,react,graphql,kafka,rabbitmq,postgres,mongodb,redis,azure,docker,vercel,git,github,vscode,visualstudio,rider,webstorm,androidstudio&perline=7"
   alt="stack"
 />
 
