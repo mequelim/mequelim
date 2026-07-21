@@ -2,13 +2,6 @@
   <h1>Welcome! 👋</h1>
 
   <img
-    width="1584"
-    height="396"
-    alt="Capa LinkedIn"
-    src="https://github.com/user-attachments/assets/c8db0048-b2be-42b5-a082-4ec1ffacbbdb"
-  />
-
-  <img
     src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&weight=600&size=20&duration=2800&pause=700&color=1E90FF&center=true&vCenter=true&width=640&lines=Mobile+%26+Backend+Developer+%C2%B7+SaaS;.NET+%C2%B7+C%23+%C2%B7+JavaScript+%C2%B7+TypeScript+%C2%B7+React+Native;PostgreSQL+%C2%B7+Neo4j+%C2%B7+CockroachDB+%C2%B7+Azure;Docker+%C2%B7+Git+%C2%B7+GitHub"
     alt="Typing SVG"
   />
