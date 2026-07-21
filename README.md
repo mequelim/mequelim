@@ -56,17 +56,12 @@ Currently, I am working on my personal projects (SaaS) - so, give me a call so w
 
 </div>
 
-<div align="center">
+<!-- <div align="center">
 
 ## 📊 Telemetry
-
-<img
-  src="https://streak-stats.demolab.com?user=mequelim&hide_border=true&background=0D1117&ring=1E90FF&fire=1E90FF&currStreakLabel=1E90FF&sideLabels=C9D1D9&currStreakNum=F8F8F8&sideNums=F8F8F8&dates=8b949e"
-  alt="streak"
-/>
 
 <img
   src="https://github-readme-activity-graph.vercel.app/graph?username=mequelim&bg_color=0D1117&color=1E90FF&line=FF6B35&point=F8F8F8&area=true&area_color=FF6B35&hide_border=true"
   width="94%"
   alt="activity graph"
-/>
+/> -->
