@@ -18,8 +18,18 @@ Currently, I am working on my personal projects (SaaS) - so, give me a call so w
 
 <!-- <a href="https://huzaifaawan.com"><img src="https://img.shields.io/badge/⌂_Portfolio-huzaifaawan.com-ff6b35?style=for-the-badge&labelColor=0d1117" alt="Portfolio" /></a> -->
 <!-- <a href="https://www.upwork.com/freelancers/~01b2cac225f43ef332"><img src="https://img.shields.io/badge/Upwork-5★_Verified-14a800?style=for-the-badge&labelColor=0d1117" alt="Upwork" /></a> -->
-<a href="https://www.linkedin.com/in/mequelim"><img src="https://img.shields.io/badge/LinkedIn-Connect-0a66c2?style=for-the-badge&labelColor=0d1117&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-<a href="mailto:pedromequelim@gmail.com"><img src="https://img.shields.io/badge/Email-Say_hello-ff8a4c?style=for-the-badge&labelColor=0d1117" alt="Email" /></a>
+<a href="https://www.linkedin.com/in/mequelim">
+  <img
+    src="https://img.shields.io/badge/LinkedIn-Connect-0a66c2?style=for-the-badge&labelColor=0D1117&logo=linkedin&logoColor=FFFFFF"
+    alt="LinkedIn"
+  />
+</a>
+<a href="mailto:pedromequelim@gmail.com">
+  <img
+    src="https://img.shields.io/badge/Email-Say_hello-1E90FF?style=for-the-badge&labelColor=0D1117"
+    alt="Email"
+  />
+</a>
 
 </div>
 
