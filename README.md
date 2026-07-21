@@ -1,53 +1,47 @@
-# Welcome! 👋
-
-## 💎 About me
-<div>
-  <ul>
-    <li>I am <b>Mobile</b> and <b>FullStack .NET Developer</b> and <b>Software Architecture</b>;</li>
-    <li>Graduated in <b>Technology in Systems Analysis and Development</b>;</li>
-    <li>Currently, I am working on my personal projects (SaaS) - so, give me a call so we can talk about my experience and the projects I am/was involved in.</li>
-  </ul>
+<div align="center">
+  <h1>Welcome! 👋</h1>
+  <img
+    src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&weight=600&size=20&duration=2800&pause=700&color=1E90FF&center=true&vCenter=true&width=640&lines=Mobile+%26+Backend+Developer+%C2%B7+SaaS+%26+Freelance;.NET+%C2%B7+C%23+%C2%B7+JavaScript+%C2%B7+TypeScript+%C2%B7+React+Native;PostgreSQL+%C2%B7+Neo4j+%C2%B7+CockroachDB+%C2%B7+Azure;Docker+%C2%B7+Git+%C2%B7+GitHub"
+    alt="typing"
+  />
 </div>
 
-## 💻 My core expertise
+<div align="center">
 
-+ 🎯 Currently, I am working on: **mobile apps**, **microservices**, **DDD**, **TDD** and some **software architectures** (mainly *Clean Architecture* & *Vertical Slice Architecture*);
-+ 🚀 **Main technologies:**
-  + **Mobile**:
-    + React Native (TypeScript).
-  + **Backend**:
-    + C#;
-    + .NET;
-      + ASP.NET Core;
-      + .NET Aspire;
-      + ORMs.
-        + Entity Framework Core (EF Core);
-        + Dapper.
-    + REST;
-    + GraphQL;
-    + gRPC.
-  + **Cloud & Databases:**
-    + Azure;
-      + Azure SQL Databases;
-      + Azure Cosmos DB;
-      + Azure DocumentDB.
-    + PostgreSQL;
-    + MongoDB;
-    + Neo4j;
-    + Redis. 
-  + **Architecture & Design**:
-    + Microservices;
-    + Modular Monoliths:
-    + Domain-Driven Design (DDD);
-    + Test-Driven Design (TDD);
-    + Design Patterns;
-    + Architecture;
-    + Cloud Principles.
-  + **Principles**:
-    + SOLID;
-    + DRY;
-    + KISS;
-    + YAGNI;
-    + Clean Code;
-    + Evolutionary architecture.
-+ 📞 **How to reach me?** Reach out and connect with me on LinkedIn!
+<h1>💎 About me</h1>
+I am <b>Mobile</b> and <b>FullStack .NET Developer</b> and <b>Software Architecture</b>;</br>
+Graduated in <b>Technology in Systems Analysis and Development</b>;</br>
+Currently, I am working on my personal projects (SaaS) - so, give me a call so we can talk about my experience and the projects I am/was involved in.</li>
+
+<br/>
+<br/>
+
+<!-- <a href="https://huzaifaawan.com"><img src="https://img.shields.io/badge/⌂_Portfolio-huzaifaawan.com-ff6b35?style=for-the-badge&labelColor=0d1117" alt="Portfolio" /></a> -->
+<!-- <a href="https://www.upwork.com/freelancers/~01b2cac225f43ef332"><img src="https://img.shields.io/badge/Upwork-5★_Verified-14a800?style=for-the-badge&labelColor=0d1117" alt="Upwork" /></a> -->
+<a href="https://www.linkedin.com/in/mequelim"><img src="https://img.shields.io/badge/LinkedIn-Connect-0a66c2?style=for-the-badge&labelColor=0d1117&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+<a href="mailto:pedromequelim@gmail.com"><img src="https://img.shields.io/badge/Email-Say_hello-ff8a4c?style=for-the-badge&labelColor=0d1117" alt="Email" /></a>
+
+</div>
+
+<div align="center">
+
+## ⚡ My Stack
+
+<img
+  src="https://skillicons.dev/icons?i=cs,dotnet,ts,react,js,postgres,mongo,redis,azure,docker,vercel,tailwind,git,github&perline=7"
+  alt="stack"
+/>
+
+</div>
+
+<div align="center">
+
+## 📊 Telemetry
+
+<img
+  src="https://streak-stats.demolab.com?user=mequelim&hide_border=true&background=0D1117&ring=1E90FF&fire=1E90FF&currStreakLabel=1E90FF&sideLabels=C9D1D9&currStreakNum=F8F8F8&sideNums=F8F8F8&dates=8b949e"
+  alt="streak"
+/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=mequelim&bg_color=0D1117&color=1E90FF&line=FF6B35&point=F8F8F8&area=true&area_color=FF6B35&hide_border=true" width="94%" alt="activity graph" />
+
