@@ -2,14 +2,9 @@
   <h1>Welcome! 👋</h1>
 
   <img
-    src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&weight=600&size=20&duration=2800&pause=700&color=1E90FF&center=true&vCenter=true&width=640&lines=Mobile+%26+Backend+Developer+%C2%B7+SaaS;.NET+%C2%B7+C%23+%C2%B7+JavaScript+%C2%B7+TypeScript+%C2%B7+React+Native;PostgreSQL+%C2%B7+Neo4j+%C2%B7+CockroachDB+%C2%B7+Azure;Docker+%C2%B7+Git+%C2%B7+GitHub"
+    src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&weight=600&size=20&duration=2800&pause=700&color=1E90FF&center=true&vCenter=true&width=640&lines=Mobile+%26+Backend+Developer+%C2%B7+SaaS;.NET+%C2%B7+C%23+%C2%B7+JavaScript+%C2%B7+TypeScript+%C2%B7+React+Native;PostgreSQL+%C2%B7+MongoDB+%C2%B7+Neo4j+%C2%B7+CockroachDB+%C2%B7+Azure;Docker+%C2%B7+Git+%C2%B7+GitHub+%C2%B7+GitLab+%C2%B7+Azure+DevOps"
     alt="Typing SVG"
   />
-
-  <!-- <img
-    src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&weight=600&size=20&duration=2800&pause=700&color=1E90FF&center=true&vCenter=true&width=640&lines=Mobile+%26+Backend+Developer+%C2%B7+SaaS+%26+Freelancer;.NET+%C2%B7+C%23+%C2%B7+JavaScript+%C2%B7+TypeScript+%C2%B7+React+Native;PostgreSQL+%C2%B7+Neo4j+%C2%B7+CockroachDB+%C2%B7+Azure;Docker+%C2%B7+Git+%C2%B7+GitHub"
-    alt="Typing SVG"
-  /> -->
 </div>
 
 <div align="center">
@@ -49,7 +44,7 @@ Currently, I am working on my personal projects (SaaS) - so, give me a call so w
 
 </div>
 
-<!-- <div align="center">
+<div align="center">
 
 ## 📊 Telemetry
 
@@ -57,4 +52,4 @@ Currently, I am working on my personal projects (SaaS) - so, give me a call so w
   src="https://github-readme-activity-graph.vercel.app/graph?username=mequelim&bg_color=0D1117&color=1E90FF&line=FF6B35&point=F8F8F8&area=true&area_color=FF6B35&hide_border=true"
   width="94%"
   alt="activity graph"
-/> -->
+/>
