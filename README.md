@@ -2,7 +2,7 @@
   <h1>Welcome! 👋</h1>
 
   <img
-    src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&weight=600&size=20&duration=2800&pause=700&color=1E90FF&center=true&vCenter=true&width=640&lines=Mobile+%26+Backend+Developer+%C2%B7+SaaS;.NET+%C2%B7+C%23+%C2%B7+JavaScript+%C2%B7+TypeScript+%C2%B7+React+Native;PostgreSQL+%C2%B7+MongoDB+%C2%B7+Neo4j+%C2%B7+CockroachDB+%C2%B7+Azure;Docker+%C2%B7+Git+%C2%B7+GitHub+%C2%B7+GitLab+%C2%B7+Azure+DevOps"
+    src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&weight=600&size=20&duration=2800&pause=700&color=1E90FF&center=true&vCenter=true&width=640&lines=Mobile+%26+Backend+Developer+%C2%B7+SaaS;.NET+%C2%B7+TypeScript+%C2%B7+React+Native+%C2%B7+Kotlin;PostgreSQL+%C2%B7+MongoDB+%C2%B7+Neo4j+%C2%B7+CockroachDB+%C2%B7+Azure;Docker+%C2%B7+Git+%C2%B7+GitHub+%C2%B7+GitLab+%C2%B7+Azure+DevOps"
     alt="Typing SVG"
   />
 </div>
