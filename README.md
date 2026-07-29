@@ -35,10 +35,10 @@ Currently, I am working on my personal projects (SaaS) - so, give me a call so w
 
 <div align="center">
 
-## ⚡ My Stack
+## ⚡ My Main Stack & Tools
 
 <img
-  src="https://skillicons.dev/icons?i=js,ts,react,redux,cs,dotnet,nodejs,nest,graphql,kafka,rabbitmq,postgres,mongodb,redis,firebase,azure,docker,git,npm,yarn,vscode,visualstudio,rider,webstorm,figma&perline=5"
+  src="https://skillicons.dev/icons?i=js,ts,react,redux,cs,dotnet,nodejs,nest,prisma,graphql,kafka,rabbitmq,postgres,mongodb,redis,firebase,azure,docker,git,npm,yarn,vscode,visualstudio,rider,webstorm,apollo,figma,notion,&perline=7"
   alt="stack"
 />
 
