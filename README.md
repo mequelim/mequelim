@@ -2,7 +2,7 @@
   <h1>Welcome! 👋</h1>
 
   <img
-    src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&weight=600&size=20&duration=2800&pause=700&color=1E90FF&center=true&vCenter=true&width=700&lines=Mobile+%26+Backend+Developer+%C2%B7+SaaS;TypeScript+%C2%B7+React+Native+%C2%B7+.NET+%C2%B7+Node.js+%C2%B7+NestJS;PostgreSQL+%C2%B7+MongoDB+%C2%B7+Neo4j+%C2%B7+CockroachDB+%C2%B7+Redis+%C2%B7+Azure;Docker+%C2%B7+Git+%C2%B7+GitHub"
+    src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&weight=600&size=20&duration=2800&pause=700&color=1E90FF&center=true&vCenter=true&width=700&lines=Mobile+%26+Backend+Developer+%C2%B7+SaaS;TypeScript+%C2%B7+React+Native+%C2%B7+.NET;PostgreSQL+%C2%B7+MongoDB+%C2%B7+Neo4j+%C2%B7+CockroachDB+%C2%B7+Redis+%C2%B7+Azure;Docker+%C2%B7+Git+%C2%B7+GitHub"
     alt="Typing SVG"
   />
 </div>
@@ -38,7 +38,7 @@ Currently, I am working on my personal projects (SaaS) - so, give me a call so w
 ## ⚡ My Main Stack & Tools
 
 <img
-  src="https://skillicons.dev/icons?i=js,ts,react,redux,cs,dotnet,nodejs,nest,prisma,graphql,kafka,rabbitmq,postgres,mongodb,redis,firebase,azure,docker,git,npm,yarn,vscode,visualstudio,rider,webstorm,apollo,figma,notion,&perline=7"
+  src="https://skillicons.dev/icons?i=js,ts,react,redux,cs,dotnet,graphql,kafka,rabbitmq,postgres,mongodb,redis,firebase,azure,docker,git,github,npm,vscode,visualstudio,rider,webstorm,apollo,figma,&perline=8"
   alt="stack"
 />
 
