@@ -49,7 +49,7 @@ Currently, I am working on my personal projects (SaaS) - so, give me a call so w
 ## 📊 Stats
 
 <img
-  src="https://github-stats-extended.vercel.app/api/top-langs/?username=mequelim&layout=pie&theme=tokyonight"
+  src="https://seu-app-no-vercel.vercel.app/api/top-langs/?username=mequelim&layout=pie&theme=tokyonight&count_private=true"
   alt="most used languages"
 />
 
