@@ -53,10 +53,10 @@ Currently, I am working on my SaaS - so, give me a call so we can talk about my 
   alt="most used languages"
 /> 
 
-<img
+<-- <img
   src="https://github-readme-activity-graph.vercel.app/graph?username=mequelim&bg_color=0D1117&color=1E90FF&line=FF6B35&point=F8F8F8&area=true&area_color=FF6B35&hide_border=true"
   width="94%"
   alt="activity graph"
-/>
+/>-->
 
 </div>
