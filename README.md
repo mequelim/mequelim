@@ -12,7 +12,7 @@
 <h1>💎 About me</h1>
 I am <b>Mobile</b> and <b>FullStack .NET Developer</b>;</br>
 Graduated in <b>Technology in Systems Analysis and Development</b>;</br>
-Currently, I am working on my personal projects (SaaS) - so, give me a call so we can talk about my experience and the projects I am/was involved in.</li>
+Currently, I am working on my SaaS - so, give me a call so we can talk about my experience and the projects I am/was involved in.</li>
 
 <br/>
 <br/>
