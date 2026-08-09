@@ -38,7 +38,7 @@ Currently, I am working on my SaaS. So, give me a call and we can talk about my 
 ## ⚡ My Main Stack & Tools
 
 <img
-  src="https://skillicons.dev/icons?i=ts,react,cs,dotnet,graphql,kafka,rabbitmq,postgres,mongodb,redis,firebase,grafana,azure,docker,git,github,vscode,visualstudio,rider,webstorm,androidstudio,apollo,notion,figma,ai,apple,windows&perline=9"
+  src="https://skillicons.dev/icons?i=ts,react,cs,dotnet,go,graphql,kafka,rabbitmq,postgres,mongodb,redis,firebase,grafana,azure,docker,git,github,vscode,visualstudio,rider,webstorm,androidstudio,apollo,figma,ai,apple,windows&perline=9"
   alt="stack"
 />
 
