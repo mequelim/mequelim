@@ -49,9 +49,9 @@ Currently, I am working on my personal projects (SaaS) - so, give me a call so w
 ## 📊 Stats
 
 <img
-  src="https://seu-app-no-vercel.vercel.app/api/top-langs/?username=mequelim&layout=pie&theme=tokyonight&count_private=true"
+  src="https://github-stats-extended.vercel.app/api/top-langs/?username=mequelim&count_private=true&layout=pie&theme=tokyonight"
   alt="most used languages"
-/>
+/> 
 
 <img
   src="https://github-readme-activity-graph.vercel.app/graph?username=mequelim&bg_color=0D1117&color=1E90FF&line=FF6B35&point=F8F8F8&area=true&area_color=FF6B35&hide_border=true"
