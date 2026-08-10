@@ -2,7 +2,7 @@
   <h1>Welcome! 👋</h1>
 
   <img
-    src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&weight=600&size=20&duration=2800&pause=700&color=1E90FF&center=true&vCenter=true&width=700&lines=Mobile+%26+Backend+Developer+%C2%B7+SaaS;TypeScript+%C2%B7+React+Native+%C2%B7+C%23+%C2%B7+.NET+%C2%B7+Golang;PostgreSQL+%C2%B7+MongoDB+%C2%B7+Redis+%C2%B7+Azure;Docker+%C2%B7+Git+%C2%B7+GitHub"
+    src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&weight=600&size=20&duration=2800&pause=700&color=1E90FF&center=true&vCenter=true&width=700&lines=Mobile+%26+Backend+Developer+%C2%B7+SaaS;TypeScript+%C2%B7+React+Native+%C2%B7+C%23+%C2%B7+.NET+%C2%B7+Node.js+%C2%B7+NestJS;PostgreSQL+%C2%B7+MongoDB+%C2%B7+Redis+%C2%B7+Azure;Docker+%C2%B7+Git+%C2%B7+GitHub"
     alt="Typing SVG"
   />
 </div>
@@ -38,7 +38,7 @@ Currently, I am working on my SaaS. So, give me a call and we can talk about my 
 ## ⚡ My Main Stack & Tools
 
 <img
-  src="https://skillicons.dev/icons?i=ts,react,cs,dotnet,go,graphql,kafka,rabbitmq,postgres,mongodb,redis,firebase,grafana,azure,docker,git,github,vscode,visualstudio,rider,webstorm,androidstudio,apollo,figma,ai,apple,windows&perline=9"
+  src="https://skillicons.dev/icons?i=ts,react,cs,dotnet,nodejs,nestjs,graphql,kafka,rabbitmq,prisma,postgres,mongodb,redis,firebase,grafana,azure,docker,git,github,vscode,visualstudio,rider,webstorm,androidstudio,apollo,figma,apple,windows&perline=7"
   alt="stack"
 />
 
