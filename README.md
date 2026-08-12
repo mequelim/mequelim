@@ -48,9 +48,5 @@ Currently, I am working on my SaaS. So, give me a call and we can talk about my 
 
 ## 📊 Stats
 
-<img
-  src="https://github-stats-extended.vercel.app/api/top-langs/?username=mequelim&count_private=true&layout=pie&theme=tokyonight"
-  alt="most used languages"
-/>
 
 </div>
