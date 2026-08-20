@@ -10,7 +10,7 @@
 <div align="center">
 
 <h1>💎 About me</h1>
-Graduated in <b>Technology in Systems Analysis and Development</b>, I am <b>Mobile</b> and <b>FullStack .NET Developer</b>;</br>
+Graduated in <b>Technology in Systems Analysis and Development</b>, I am <b>Mobile</b> (React Native & Kotlin) and <b>FullStack .NET Developer</b>;</br>
 Currently, I am working on my SaaS. So, give me a call and we can talk about my experience and the projects I am/was involved in.</li>
 
 <br/>
