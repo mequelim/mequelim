@@ -10,7 +10,7 @@
 <div align="center">
 
 <h1>💎 About me</h1>
-Graduated in <b>Technology in Systems Analysis and Development</b>, I am <b>Mobile</b> (React Native & Kotlin) and <b>FullStack .NET Developer</b>;</br>
+Graduated in <b>Technology in Systems Analysis and Development</b>, I am <b>Mobile</b> (React Native) and <b>FullStack .NET Developer</b>;</br>
 Currently, I am working on my SaaS. So, give me a call and we can talk about my experience and the projects I am/was involved in.</li>
 
 <br/>
@@ -37,7 +37,7 @@ Currently, I am working on my SaaS. So, give me a call and we can talk about my 
 ## ⚡ My Main Stack & Tools
 
 <img
-  src="https://skillicons.dev/icons?i=ts,react,kotlin,ktor,cs,dotnet,graphql,kafka,rabbitmq,postgres,mongodb,redis,firebase,jest,selenium,grafana,aws,docker,git,github,idea,rider,webstorm,androidstudio,figma,apple,windows&perline=9"
+  src="https://skillicons.dev/icons?i=ts,react,cs,dotnet,graphql,kafka,rabbitmq,postgres,mongodb,redis,firebase,jest,selenium,grafana,aws,docker,git,github,rider,webstorm,androidstudio,figma,apple,windows&perline=8"
   alt="main-stack"
 />
 
