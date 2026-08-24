@@ -18,13 +18,13 @@
   <li>I am <b>Mobile</b>, <b>FullStack .NET</b> and <b> Backend Developer</b>, with experience with React Native (TypeScript), .NET (C#), Node.js (NestJS) and SQL (PostgreSQL)/NoSQL (MongoDB and Redis) databases.</br></li>
 </ul>
 
-> [!NOTE]
->
-> Currently, I am working on my SaaS. So, give me a call and we can talk about my experience and the projects I am/was involved in.
-
 <br/>
 
 <div align="center">
+
+  > [!NOTE]
+  >
+  > Currently, I am working on my SaaS. So, give me a call and we can talk about my experience and the projects I am/was involved in.
 
   <a href="https://www.linkedin.com/in/mequelim">
     <img
