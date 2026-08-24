@@ -9,36 +9,48 @@
 
 <div align="center">
 
-<h1>💎 About me</h1>
-Graduated in <b>Technology in Systems Analysis and Development</b>, I am <b>Mobile</b> (React Native) and <b>FullStack .NET Developer</b>;</br>
-Currently, I am working on my SaaS. So, give me a call and we can talk about my experience and the projects I am/was involved in.</li>
-
-<br/>
-<br/>
-
-<a href="https://www.linkedin.com/in/mequelim">
-  <img
-    src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&labelColor=0D1117&logo=linkedin&logoColor=FFFFFF"
-    alt="LinkedIn"
-  />
-</a>
-
-<a href="mailto:pedromequelim@gmail.com">
-  <img
-    src="https://img.shields.io/badge/Email-Say_hello-1E90FF?style=for-the-badge&labelColor=0D1117"
-    alt="Email"
-  />
-</a>
+  <h1>💎 About me</h1>
 
 </div>
 
+<ul>
+  <li>Graduated in <b>Technology in Systems Analysis and Development</b>;</li>
+  <li>I am <b>Mobile</b>, <b>FullStack .NET</b> and <b> Backend Developer</b>, with experience with React Native (TypeScript), .NET (C#), Node.js (NestJS) and SQL (PostgreSQL)/NoSQL (MongoDB and Redis) databases.</br></li>
+</ul>
+
+> [!NOTE]
+>
+> Currently, I am working on my SaaS. So, give me a call and we can talk about my experience and the projects I am/was involved in.
+
+<br/>
+
 <div align="center">
 
-## ⚡ My Main Stack & Tools
+  <a href="https://www.linkedin.com/in/mequelim">
+    <img
+      src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&labelColor=0D1117&logo=linkedin&logoColor=FFFFFF"
+      alt="LinkedIn"
+    />
+  </a>
 
-<img
-  src="https://skillicons.dev/icons?i=ts,react,cs,dotnet,nodejs,nest,prisma,graphql,kafka,rabbitmq,postgres,mongodb,redis,firebase,jest,selenium,grafana,aws,docker,git,github,vscode,rider,webstorm,androidstudio,figma,apple,windows&perline=7"
-  alt="main-stack"
-/>
+  <a href="mailto:pedromequelim@gmail.com">
+    <img
+      src="https://img.shields.io/badge/Email-Say_hello-1E90FF?style=for-the-badge&labelColor=0D1117"
+      alt="Email"
+    />
+  </a>
+
+</div>
+
+<br/>
+
+<div align="center">
+
+  <h2>⚡ My Main Stack & Tools</h2>
+  
+  <img
+    src="https://skillicons.dev/icons?i=ts,react,cs,dotnet,nodejs,nest,prisma,graphql,kafka,rabbitmq,postgres,mongodb,redis,firebase,jest,selenium,grafana,aws,docker,git,github,vscode,rider,webstorm,androidstudio,figma,apple,windows&perline=7"
+    alt="main-stack"
+  />
 
 </div>
