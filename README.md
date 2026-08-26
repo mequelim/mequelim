@@ -49,7 +49,7 @@
   <h2>⚡ My Main Stack & Tools</h2>
   
   <img
-    src="https://skillicons.dev/icons?i=ts,react,kotlin,ktor,cs,dotnet,nodejs,nest,prisma,graphql,postgres,mongodb,redis,firebase,jest,kafka,rabbitmq,grafana,aws,docker,git,github,gitlab,vscode,visualstudio,idea,rider,webstorm,androidstudio,figma,apple,windows&perline=8"
+    src="https://skillicons.dev/icons?i=ts,react,cs,dotnet,nodejs,nest,prisma,graphql,postgres,mongodb,redis,firebase,jest,kafka,rabbitmq,grafana,aws,docker,git,github,vscode,visualstudio,rider,webstorm,androidstudio,figma,apple,windows&perline=7"
     alt="main-stack"
   />
 
