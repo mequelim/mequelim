@@ -2,7 +2,7 @@
   <h1>Welcome! 👋</h1>
 
   <img
-    src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&weight=600&size=20&duration=2800&pause=700&color=1E90FF&center=true&vCenter=true&width=700&lines=Mobile+%26+Backend+Developer+%C2%B7+SaaS;TypeScript+%C2%B7+React+Native+%C2%B7+C%23+%C2%B7+.NET+%C2%B7+Node.js+%C2%B7+NestJS;PostgreSQL+%C2%B7+MongoDB+%C2%B7+Neo4j+%C2%B7+Redis+%C2%B7+AWS;Docker+%C2%B7+Git+%C2%B7+GitHub"
+    src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&weight=600&size=20&duration=2800&pause=700&color=1E90FF&center=true&vCenter=true&width=700&lines=Mobile+%26+Backend+Developer+%C2%B7+SaaS;TypeScript+%C2%B7+React+Native+%C2%B7+Kotlin+%C2%B7+C%23+%C2%B7+.NET;PostgreSQL+%C2%B7+MongoDB+%C2%B7+Neo4j+%C2%B7+Redis+%C2%B7+AWS;Docker+%C2%B7+Git+%C2%B7+GitHub"
     alt="Typing SVG"
   />
 </div>
@@ -15,7 +15,7 @@
 
 <ul>
   <li>Graduated in <b>Technology in Systems Analysis and Development</b>;</li>
-  <li>I am <b>Mobile</b>, <b>FullStack .NET</b> and <b> Backend Developer</b>, with experience in TypeScript, React Native, .NET (C#), Node.js (NestJS) and SQL (PostgreSQL)/NoSQL (MongoDB and Redis) databases.</br></li>
+  <li>I am <b>Mobile</b>, <b>FullStack .NET</b> and <b> Backend Developer</b>, with experience in TypeScript, React Native, Kotlin, .NET (C#) and SQL (PostgreSQL)/NoSQL (MongoDB and Redis) databases.</br></li>
 </ul>
 
 > [!NOTE]
@@ -49,7 +49,7 @@
   <h2>⚡ My Main Stack & Tools</h2>
   
   <img
-    src="https://skillicons.dev/icons?i=ts,react,cs,dotnet,nodejs,nest,prisma,graphql,postgres,mongodb,redis,firebase,jest,kafka,rabbitmq,grafana,aws,docker,git,github,vscode,visualstudio,rider,webstorm,androidstudio,figma,apple,windows&perline=7"
+    src="https://skillicons.dev/icons?i=ts,react,cs,dotnet,kotlin,ktor,graphql,postgres,mongodb,redis,firebase,jest,kafka,rabbitmq,gradle,maven,aws,docker,git,github,vscode,rider,idea,webstorm,androidstudio,figma,apple,windows&perline=7"
     alt="main-stack"
   />
 
