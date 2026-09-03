@@ -2,7 +2,7 @@
   <h1>Welcome! 👋</h1>
 
   <img
-    src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&weight=600&size=20&duration=2800&pause=700&color=1E90FF&center=true&vCenter=true&width=700&lines=Mobile+%26+Backend+Developer+%C2%B7+SaaS;TypeScript+%C2%B7+React+Native+%C2%B7+Kotlin+%C2%B7+C%23+%C2%B7+.NET;PostgreSQL+%C2%B7+MongoDB+%C2%B7+Neo4j+%C2%B7+Redis+%C2%B7+Azure;Docker+%C2%B7+Git+%C2%B7+GitHub"
+    src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&weight=600&size=20&duration=2800&pause=700&color=1E90FF&center=true&vCenter=true&width=700&lines=Mobile+%26+Backend+Developer+%C2%B7+SaaS;TypeScript+%C2%B7+React+Native+%C2%B7+Kotlin+%C2%B7+C%23+%C2%B7+.NET;PostgreSQL+%C2%B7+MongoDB+%C2%B7+Neo4j+%C2%B7+Redis+%C2%B7+AWS;Docker+%C2%B7+Git+%C2%B7+GitHub"
     alt="Typing SVG"
   />
 </div>
@@ -49,7 +49,7 @@
   <h2>⚡ My Main Stack & Tools</h2>
   
   <img
-    src="https://skillicons.dev/icons?i=ts,react,kotlin,ktor,cs,dotnet,graphql,postgres,mongodb,redis,firebase,jest,kafka,rabbitmq,gradle,maven,azure,docker,git,github,vscode,rider,idea,webstorm,androidstudio,figma,apple,windows&perline=7"
+    src="https://skillicons.dev/icons?i=ts,react,kotlin,ktor,cs,dotnet,graphql,postgres,mongodb,redis,firebase,jest,kafka,rabbitmq,gradle,maven,aws,docker,git,github,vscode,rider,idea,webstorm,androidstudio,figma,apple,windows&perline=7"
     alt="main-stack"
   />
 
