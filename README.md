@@ -2,7 +2,7 @@
   <h1>Welcome! 👋</h1>
 
   <img
-    src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&weight=600&size=20&duration=2800&pause=700&color=1E90FF&center=true&vCenter=true&width=700&lines=Mobile+%26+Backend+Developer+%C2%B7+SaaS;TypeScript+%C2%B7+React+Native+%C2%B7+%C2%B7+C%23+%C2%B7+.NET+%C2%B7+Golang;PostgreSQL+%C2%B7+MongoDB+%C2%B7+Neo4j+%C2%B7+Redis+%C2%B7+AWS;Docker+%C2%B7+Git+%C2%B7+GitHub"
+    src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&weight=600&size=20&duration=2800&pause=700&color=1E90FF&center=true&vCenter=true&width=700&lines=Mobile+%26+Backend+Developer+%C2%B7+SaaS;TypeScript+%C2%B7+React+Native+%C2%B7+%C2%B7+C%23+%C2%B7+.NET;PostgreSQL+%C2%B7+MongoDB+%C2%B7+Neo4j+%C2%B7+Redis+%C2%B7+AWS;Docker+%C2%B7+Git+%C2%B7+GitHub"
     alt="Typing SVG"
   />
 </div>
@@ -15,7 +15,7 @@
 
 <ul>
   <li>Graduated in <b>Technology in Systems Analysis and Development</b>;</li>
-  <li>I am <b>Mobile</b>, <b>FullStack .NET</b> and <b> Backend Developer</b>, with experience in TypeScript, React Native, C#, .NET, Golang, and SQL/NoSQL databases.</br></li>
+  <li>I am <b>Mobile</b>, <b>FullStack .NET</b> and <b> Backend Developer</b>, with experience in TypeScript, React Native, C#, .NET, and SQL/NoSQL databases.</br></li>
 </ul>
 
 > [!NOTE]
