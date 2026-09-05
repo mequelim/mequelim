@@ -15,7 +15,7 @@
 
 <ul>
   <li>Graduated in <b>Technology in Systems Analysis and Development</b>;</li>
-  <li>I am <b>Mobile</b>, <b>FullStack .NET</b> and <b> Backend Developer</b>, with experience in TypeScript, React Native, C#, .NET, and SQL/NoSQL databases.</br></li>
+  <li>I am <b>Mobile</b>, <b>FullStack .NET</b> and <b> Backend Developer</b>, with experience in TypeScript, React Native, C#, .NET and SQL/NoSQL databases.</br></li>
 </ul>
 
 > [!NOTE]
