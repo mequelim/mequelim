@@ -9,7 +9,7 @@
 
 <div align="center">
 
-  <h1>💎 About me</h1>
+  <h1>💎 About Me</h1>
 
 </div>
 
