@@ -15,7 +15,7 @@
 
 <ul>
   <li>Graduated in <b>Technology in Systems Analysis and Development</b>;</li>
-  <li>I am <b>Software Engineer</b> with experience in TypeScript, React Native, C#, .NET and SQL/NoSQL databases.</br></li>
+  <li>I am <b>Software Engineer</b> with experience in TypeScript, React Native, Kotlin, Swift, C#, .NET, Python (Django & FastAPI) and SQL/NoSQL databases.</br></li>
 </ul>
 
 > [!NOTE]
@@ -49,7 +49,7 @@
   <h2>⚡ My Main Stack & Tools</h2>
   
   <img
-    src="https://skillicons.dev/icons?i=ts,react,cs,dotnet,python,django,fastapi,graphql,postgres,mongodb,redis,firebase,jest,kafka,rabbitmq,aws,azure,grafana,docker,kubernetes,terraform,git,github,vscode,rider,webstorm,androidstudio,apollo,figma,ai,apple,windows&perline=8"
+    src="https://skillicons.dev/icons?i=ts,react,cs,dotnet,graphql,postgres,mongodb,redis,firebase,jest,kafka,rabbitmq,aws,azure,grafana,docker,kubernetes,terraform,git,github,vscode,rider,webstorm,androidstudio,apollo,figma,apple,windows&perline=7"
     alt="main-stack"
   />
 
