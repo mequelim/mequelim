@@ -15,7 +15,7 @@
 
 <ul>
   <li>Graduated in <b>Technology in Systems Analysis and Development</b>;</li>
-  <li>I am <b>Software Engineer</b> with experience in TypeScript, React Native, Kotlin, Swift, C#, .NET, Python (Django & FastAPI) and SQL/NoSQL databases.</br></li>
+  <li>I am <b>Software Engineer</b> with experience in TypeScript, React Native, Kotlin, C#, .NET, Python (Django & FastAPI) and SQL/NoSQL databases.</br></li>
 </ul>
 
 > [!NOTE]
