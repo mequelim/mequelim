@@ -2,7 +2,7 @@
   <h1>Welcome! 👋</h1>
 
   <img
-    src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&weight=600&size=20&duration=2800&pause=700&color=1E90FF&center=true&vCenter=true&width=700&lines=Mobile+%26+Backend+Engineer+%C2%B7+SaaS;TypeScript+%C2%B7+React+Native+%C2%B7+C%23+%C2%B7+.NET;PostgreSQL+%C2%B7+MongoDB+%C2%B7+Redis+%C2%B7+Azure;Docker+%C2%B7+Git+%C2%B7+GitHub"
+    src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&weight=600&size=20&duration=2800&pause=700&color=1E90FF&center=true&vCenter=true&width=700&lines=Mobile+%26+Backend+Engineer+%C2%B7+SaaS;TypeScript+%C2%B7+React+Native+%C2%B7+C%23+%C2%B7+.NET;PostgreSQL+%C2%B7+MongoDB+%C2%B7+Redis+%C2%B7+AWS+%C2%B7+Azure;Docker+%C2%B7+Git+%C2%B7+GitHub"
     alt="Typing SVG"
   />
 </div>
@@ -49,7 +49,7 @@
   <h2>⚡ My Main Stack & Tools</h2>
   
   <img
-    src="https://skillicons.dev/icons?i=ts,react,cs,dotnet,graphql,postgres,mongodb,redis,firebase,jest,kafka,rabbitmq,azure,grafana,docker,kubernetes,terraform,git,github,vscode,rider,webstorm,androidstudio,apollo,notion,figma,apple,windows&perline=7"
+    src="https://skillicons.dev/icons?i=ts,react,cs,dotnet,python,django,fastapi,graphql,postgres,mongodb,redis,firebase,jest,kafka,rabbitmq,aws,azure,grafana,docker,kubernetes,terraform,git,github,vscode,rider,webstorm,androidstudio,apollo,figma,ai,apple,windows&perline=8"
     alt="main-stack"
   />
 
