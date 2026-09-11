@@ -18,10 +18,6 @@
   <li>I am <b>Software Engineer</b> with experience in TypeScript, React Native, Kotlin, C#, .NET, SQL/NoSQL databases and AWS.</li>
 </ul>
 
-> [!NOTE]
->
-> Currently, I am working on my SaaS. So, give me a call and we can talk about my experience and the projects I am/was involved in.
-
 <br/>
 
 <div align="center">
