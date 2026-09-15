@@ -45,7 +45,7 @@
   <h2>⚡ My Main Stack & Tools</h2>
   
   <img
-    src="https://skillicons.dev/icons?i=ts,react,cs,dotnet,graphql,postgres,mongodb,redis,firebase,kafka,rabbitmq,aws,grafana,docker,kubernetes,terraform,git,github,vscode,rider,webstorm,androidstudio,figma,apple,windows&perline=7"
+    src="https://skillicons.dev/icons?i=ts,react,cs,dotnet,graphql,postgres,mongodb,redis,firebase,kafka,rabbitmq,aws,grafana,docker,kubernetes,terraform,git,github,vscode,rider,androidstudio,figma,apple,windows&perline=7"
     alt="main-stack"
   />
 
