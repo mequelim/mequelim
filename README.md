@@ -22,26 +22,6 @@
 
 <div align="center">
 
-  <a href="https://www.linkedin.com/in/mequelim">
-    <img
-      src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&labelColor=0D1117&logo=linkedin&logoColor=FFFFFF"
-      alt="LinkedIn"
-    />
-  </a>
-
-  <a href="mailto:pedromequelim@gmail.com">
-    <img
-      src="https://img.shields.io/badge/Email-Say_hello-1E90FF?style=for-the-badge&labelColor=0D1117"
-      alt="Email"
-    />
-  </a>
-
-</div>
-
-<br/>
-
-<div align="center">
-
   <h2>⚡ My Main Stack & Tools</h2>
   
   <img
