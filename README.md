@@ -25,7 +25,7 @@
 
 </div>
 
-+ **Web**: TypeScript, Next.js, Angular, SaaS;
++ **Web**: TypeScript, Next.js, Angular, SAAS;
 + **Mobile**: React Native (TypeScript), Kotlin;
 + **BackEnd**: C#, .NET / ASP.NET Core, EF Core, GraphQL;
 + **Databases**: PostgreSQL, Oracle SQL, MongoDB, Redis, Amazon DynamoDB;
