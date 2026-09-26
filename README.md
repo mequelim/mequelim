@@ -18,14 +18,12 @@
   <li>I am <b>Software Engineer</b> with experience in TypeScript, React Native, Kotlin, C#, .NET, SQL/NoSQL databases and AWS.</li>
 </ul>
 
-
 <div align="center">
 
   <h1>⚡ My Main Stack</h1>
 
 </div>
 
-+ **Web**: TypeScript, Next.js, Angular, SAAS;
 + **Mobile**: React Native (TypeScript), Kotlin;
 + **BackEnd**: C#, .NET / ASP.NET Core, EF Core, GraphQL;
 + **Databases**: PostgreSQL, Oracle SQL, MongoDB, Redis, Amazon DynamoDB;
