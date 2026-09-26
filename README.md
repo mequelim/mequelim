@@ -22,7 +22,7 @@
 
 <div align="center">
 
-  <h2>⚡ My Main Stack</h2>
+  <h1>⚡ My Main Stack</h1>
 
 </div>
 
