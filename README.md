@@ -23,10 +23,13 @@
 <div align="center">
 
   <h2>⚡ My Main Stack & Tools</h2>
-  
-  <img
-    src="https://skillicons.dev/icons?i=ts,react,kotlin,cs,dotnet,graphql,postgres,mongodb,redis,firebase,kafka,rabbitmq,aws,docker,terraform,git,vscode,visualstudio,rider,idea,androidstudio,figma,apple,windows&perline=8"
-    alt="main-stack"
-  />
+
+  + *Web*: TypeScript, Next.js, Angular, SaaS;
+  + *Mobile*: React Native (TypeScript) & Kotlin;
+  + *BackEnd*: C#, .NET / ASP.NET Core, EF Core, GraphQL;
+  + *Databases*: PostgreSQL, Oracle SQL, MongoDB, Redis, Amazon DynamoDB;
+  + *Architecture & Design*: Architecture and Cloud Patterns, DDD, Design Patterns, Modular Monoliths, Microservices;
+  + *Cloud*: AWS;
+  + *Principles*: SOLID, DRY, KISS, YAGNI, clean code & evolutionary architecture
 
 </div>
