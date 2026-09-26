@@ -32,4 +32,4 @@
 + **Databases**: PostgreSQL, Oracle SQL, MongoDB, Redis, Amazon DynamoDB;
 + **Architecture & Design**: Architecture and Cloud Patterns, DDD, Design Patterns, Modular Monoliths, Microservices;
 + **Cloud**: AWS;
-+ **Principles**: SOLID, DRY, KISS, YAGNI, clean code & evolutionary architecture
++ **Principles**: SOLID, DRY, KISS, YAGNI, clean code & evolutionary architecture.
