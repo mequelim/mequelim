@@ -24,12 +24,12 @@
 
   <h2>⚡ My Main Stack & Tools</h2>
 
-  + *Web*: TypeScript, Next.js, Angular, SaaS;
-  + *Mobile*: React Native (TypeScript) & Kotlin;
-  + *BackEnd*: C#, .NET / ASP.NET Core, EF Core, GraphQL;
-  + *Databases*: PostgreSQL, Oracle SQL, MongoDB, Redis, Amazon DynamoDB;
-  + *Architecture & Design*: Architecture and Cloud Patterns, DDD, Design Patterns, Modular Monoliths, Microservices;
-  + *Cloud*: AWS;
-  + *Principles*: SOLID, DRY, KISS, YAGNI, clean code & evolutionary architecture
-
 </div>
+
++ **Web**: TypeScript, Next.js, Angular, SaaS;
++ **Mobile**: React Native (TypeScript) & Kotlin;
++ **BackEnd**: C#, .NET / ASP.NET Core, EF Core, GraphQL;
++ **Databases**: PostgreSQL, Oracle SQL, MongoDB, Redis, Amazon DynamoDB;
++ **Architecture & Design**: Architecture and Cloud Patterns, DDD, Design Patterns, Modular Monoliths, Microservices;
++ **Cloud**: AWS;
++ **Principles**: SOLID, DRY, KISS, YAGNI, clean code & evolutionary architecture
