@@ -18,7 +18,6 @@
   <li>I am <b>Software Engineer</b> with experience in TypeScript, React Native, Kotlin, C#, .NET, SQL/NoSQL databases and AWS.</li>
 </ul>
 
-<br/>
 
 <div align="center">
 
