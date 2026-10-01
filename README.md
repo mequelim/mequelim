@@ -13,10 +13,8 @@
 
 </div>
 
-<ul>
-  <li>Graduated in <b>Technology in Systems Analysis and Development</b>;</li>
-  <li>I am <b>Software Engineer</b> with experience in TypeScript, React Native, Kotlin, C#, .NET, SQL/NoSQL/NewSQL databases and AWS.</li>
-</ul>
+- Graduated in <b>Technology in Systems Analysis and Development</b>;</li>
+- I am <b>Software Engineer</b> with experience in TypeScript, React Native, Kotlin, C#, .NET, SQL/NoSQL/NewSQL databases and AWS.</li>
 
 <div align="center">
 
@@ -24,12 +22,13 @@
 
 </div>
 
-+ **Mobile**: React Native (TypeScript), Kotlin;
-+ **BackEnd**: C#, .NET / ASP.NET Core, EF Core, REST, GraphQL;
-+ **Databases**: PostgreSQL, Oracle SQL, MongoDB, CockroachDB, Redis, Amazon DynamoDB;
-+ **Architecture & Design**: Architecture and Cloud Patterns, DDD, Design Patterns, modular monoliths, microservices;
-+ **Cloud**: AWS;
-+ **Principles**: SOLID, DRY, KISS, YAGNI, clean code, evolutionary architecture.
+- **Web**: TypeScript, Angular, Next.js;
+- **Mobile**: React Native (TypeScript), Kotlin;
+- **BackEnd**: C#, .NET / ASP.NET Core, EF Core, REST, GraphQL;
+- **Databases**: PostgreSQL, Oracle SQL, MongoDB, CockroachDB, Redis, Amazon DynamoDB;
+- **Architecture & Design**: Architecture and Cloud Patterns, DDD, Design Patterns, modular monoliths, microservices;
+- **Cloud**: AWS;
+- **Principles**: SOLID, DRY, KISS, YAGNI, clean code, evolutionary architecture.
 
 <!-- <div align="center">
   <a href="https://github.com/mequelim">
