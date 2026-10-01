@@ -15,7 +15,7 @@
 
 <ul>
   <li>Graduated in <b>Technology in Systems Analysis and Development</b>;</li>
-  <li>I am <b>Software Engineer</b> with experience in TypeScript, React Native, Kotlin, C#, .NET, Python (Django & FastAPI), SQL/NoSQL/NewSQL databases and AWS.</li>
+  <li>I am <b>Software Engineer</b> with experience in TypeScript, React Native, Kotlin, C#, .NET, SQL/NoSQL/NewSQL databases and AWS.</li>
 </ul>
 
 <div align="center">
@@ -25,7 +25,7 @@
 </div>
 
 + **Mobile**: React Native (TypeScript), Kotlin;
-+ **BackEnd**: C#, .NET / ASP.NET Core, EF Core, Python (Django & FastAPI), REST, GraphQL;
++ **BackEnd**: C#, .NET / ASP.NET Core, EF Core, REST, GraphQL;
 + **Databases**: PostgreSQL, Oracle SQL, MongoDB, CockroachDB, Redis, Amazon DynamoDB;
 + **Architecture & Design**: Architecture and Cloud Patterns, DDD, Design Patterns, modular monoliths, microservices;
 + **Cloud**: AWS;
