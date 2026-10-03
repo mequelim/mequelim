@@ -2,7 +2,7 @@
   <h1>Welcome! 👋</h1>
 
   <img
-    src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&weight=600&size=20&duration=2800&pause=600&color=1E90FF&center=true&vCenter=true&width=800&lines=Mobile+%26+Backend+Engineer;TypeScript+%C2%B7+React+Native+%C2%B7+Kotlin+%C2%B7+C%23+%C2%B7+.NET;PostgreSQL+%C2%B7+MongoDB+%C2%B7+CockroachDB+%C2%B7+Redis+%C2%B7+AWS;Docker+%C2%B7+Git+%C2%B7+GitHub"
+    src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&weight=600&size=20&duration=2800&pause=600&color=1E90FF&center=true&vCenter=true&width=800&lines=Mobile+%26+Backend+Engineer;TypeScript+%C2%B7+React+Native+%C2%B7+Kotlin+%C2%B7+C%23+%C2%B7+.NET;PostgreSQL+%C2%B7+MongoDB+%C2%B7+Redis+%C2%B7+AWS;Docker+%C2%B7+Git+%C2%B7+GitHub"
     alt="Typing SVG"
   />
 </div>
@@ -24,7 +24,7 @@
 
 - **Mobile**: React Native (TypeScript), Kotlin;
 - **BackEnd**: C#, .NET / ASP.NET Core, EF Core, REST, GraphQL;
-- **Databases**: PostgreSQL, Oracle SQL, MongoDB, CockroachDB, Redis, Amazon DynamoDB;
+- **Databases**: PostgreSQL, Oracle SQL, MongoDB, Redis, Amazon DynamoDB;
 - **Architecture & Design**: Architecture and Cloud Patterns, DDD, Design Patterns, modular monoliths, microservices;
 - **Cloud**: AWS;
 - **Principles**: SOLID, DRY, KISS, YAGNI, clean code, evolutionary architecture.
