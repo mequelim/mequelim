@@ -6,7 +6,7 @@
 </div>
 
 - Graduated in <b>Technology in Systems Analysis and Development</b>;</li>
-- I am <b>Software Engineer</b> with experience in TypeScript, React Native, C#, .NET, Node.js (NestJS) SQL/NoSQL databases and AWS.</li>
+- I am <b>Software Engineer</b> with experience in TypeScript, React Native, C#, .NET, Node.js (NestJS), SQL/NoSQL databases and AWS.</li>
 
 <div align="center">
 
