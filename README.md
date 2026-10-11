@@ -15,7 +15,7 @@
 </div>
 
 - **Mobile**: React Native (TypeScript);
-- **BackEnd**: C#, .NET (ASP.NET Core, EF Core), Node.js (NestJS), REST, GraphQL;
+- **BackEnd**: C#, .NET (ASP.NET Core, EF Core), Node.js (NestJS, Prisma), REST, GraphQL;
 - **Databases**: PostgreSQL, Oracle SQL, MongoDB, Redis, Amazon DynamoDB;
 - **Architecture & Design**: Architecture and Cloud Patterns, DDD, Design Patterns, modular monoliths, microservices;
 - **Cloud**: AWS;
