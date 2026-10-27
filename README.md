@@ -24,7 +24,7 @@
 <!-- <div align="center">
   <a href="https://github.com/mequelim">
     <img
-      src="https://github-stats-extended.vercel.app/api/top-langs?username=mequelim&layout=pie&langs_count=4&theme=midnight-purple"
+      src="https://github-stats-extended.vercel.app/api/top-langs?username=mequelim&layout=pie&langs_count=6&theme=midnight-purple"
     />
   </a>
 </div> -->
