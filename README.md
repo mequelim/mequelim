@@ -25,5 +25,5 @@
 - **BackEnd**: C#, .NET (ASP.NET Core, EF Core), Go, REST, GraphQL;
 - **Databases**: PostgreSQL, Oracle SQL, MongoDB, Redis, Amazon DynamoDB;
 - **Architecture & Design**: Architecture and Cloud Patterns, DDD, Design Patterns, modular monoliths, microservices;
-- **Cloud**: AWS;
+- **Cloud**: Azure;
 - **Principles**: SOLID, DRY, KISS, YAGNI, clean code, evolutionary architecture.
