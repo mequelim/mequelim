@@ -12,7 +12,7 @@
 </div>
 
 - Graduated in <b>Technology in Systems Analysis and Development</b>;</li>
-- I am <b>Software Engineer</b> with experience in JavaScript, TypeScript, Next.js, React Native, C#, .NET, Java, SQL/NoSQL databases and Azure.</li>
+- I am <b>Software Engineer</b> with experience in JavaScript, TypeScript, Next.js, React Native, C#, .NET, Java, SQL/NoSQL databases and AWS.</li>
 
 <div align="center">
 
