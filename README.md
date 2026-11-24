@@ -22,8 +22,8 @@
 
 - **Web**: Next.js (TypeScript);
 - **Mobile**: React Native (TypeScript);
-- **BackEnd**: C#, .NET (ASP.NET Core, EF Core), Java (Spring Boot, Hibernate), REST, GraphQL;
-- **Databases**: PostgreSQL, MongoDB, Redis, Amazon DynamoDB;
-- **Architecture & Design**: Architecture and Cloud Patterns, DDD, Design Patterns, modular monoliths, microservices;
+- **BackEnd**: C#, .NET (ASP.NET Core, EF Core), Java (Spring Boot, Hibernate), REST and GraphQL;
+- **Databases**: PostgreSQL, MongoDB, Redis and Amazon DynamoDB;
+- **Architecture & Design**: Architecture and Cloud Patterns, DDD, Design Patterns, modular monoliths and microservices;
 - **Cloud**: AWS;
-- **Principles**: SOLID, DRY, KISS, YAGNI, clean code, evolutionary architecture.
+- **Principles**: SOLID, DRY, KISS, YAGNI, clean code and evolutionary architecture.
