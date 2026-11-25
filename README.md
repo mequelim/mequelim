@@ -15,9 +15,7 @@
 - I am <b>Software Engineer</b> with experience in TypeScript, Next.js, React Native, C#, .NET, Java, SQL/NoSQL databases and AWS.</li>
 
 <div align="center">
-
-  <h1>⚡ My Main Stack</h1>
-
+  <h2>⚡ My Main Stack</h2>
 </div>
 
 - **Web**: Next.js (TypeScript);
@@ -25,5 +23,4 @@
 - **BackEnd**: C#, .NET (ASP.NET Core, EF Core), Java (Spring Boot, Hibernate), REST and GraphQL;
 - **Databases**: PostgreSQL, MongoDB, Redis and Amazon DynamoDB;
 - **Architecture & Design**: Architecture and Cloud Patterns, DDD, Design Patterns, modular monoliths and microservices;
-- **Cloud**: AWS;
-- **Principles**: SOLID, DRY, KISS, YAGNI, clean code and evolutionary architecture.
+- **Cloud**: AWS.
